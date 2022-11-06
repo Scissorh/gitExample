@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+    
+}
+.section3 h1{
+    font-size: 2.3rem;
+    padding-top: 20px;
+}
+.section3{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3 table{
+    width: 100%;
+    margin: 30px 0;
+    border-collapse: collapse;
+}
+.section3 table th{
+    width:23vw;
+    padding: 15px 0px;
+    border-bottom: 2px solid black;
+} 
+.section3 table td{
+    border-bottom: 2px solid black;
+}
+.section3 table tr{
+
+
+
+}
+footer{
+    padding: 23px;
+    text-align: center;
+}
+/*.aside
+{
+    width: 20vw;
+    background-color: aqua;
+}*/
